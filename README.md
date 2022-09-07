@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olksndrdevhub
 - 👀 I’m interested in Python Web Development
-- 🌱 I’m currently working as Python Django Developer (Upwork)
+- 👨🏼‍💻 I’m currently working as Python Django Developer (Upwork)
 - 📫 How to reach me: [oleksandrdev.com](https://oleksandrdev.com/)
 
 <!---
