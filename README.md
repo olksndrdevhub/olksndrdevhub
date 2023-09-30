@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @olksndrdevhub
-- 👀 I’m interested in Python Web Development
-- 👨🏼‍💻 I’m currently working as Python Web Developer (Upwork)
+- 👋 Hi, I am @olksndrdevhub
+- 👀 I am interested in Python Web Development
+- 👨🏼‍💻 I am currently working as Python Web Developer (Upwork)
+- 📖 I am learning Go as well
 - 📫 How to reach me: [oleksandrdev.com](https://oleksandrdev.com/)
 
 <!---
